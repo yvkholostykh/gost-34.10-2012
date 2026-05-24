@@ -1,9 +1,7 @@
 # gost-34.10-2012
 Лабораторная работа, Схемы электронной подписи, ЭЦП
 ГОСТ Р 34.10‑2012 – Электронная цифровая подпись на эллиптических кривых
-https://img.shields.io/badge/Python-3.8%252B-blue
-https://img.shields.io/badge/License-MIT-green
-https://img.shields.io/badge/GitHub-Repository-black
+
 
 Реализация алгоритмов формирования и проверки электронной цифровой подписи (ЭЦП) в соответствии с ГОСТ Р 34.10‑2012 – российским стандартом на основе эллиптических кривых.
 
@@ -57,9 +55,7 @@ https://img.shields.io/badge/GitHub-Repository-black
 
 📸 Скриншоты
 Генерация ключей	Подпись сообщения	Проверка (верна)
-https://screenshots/keygen.png	https://screenshots/sign.png	https://screenshots/verify_ok.png
-Проверка (изменённое)	Меню файлов	Рабочая папка
-https://screenshots/verify_fail.png	https://screenshots/file_menu.png	https://screenshots/folder.png
+
 💻 Требования
 Python версии 3.8 или выше.
 
@@ -140,7 +136,7 @@ text
 ----------------------------------------------------------------------
                          ГЛАВНОЕ МЕНЮ
 ----------------------------------------------------------------------
-...
+
 
    Выберите действие [0-7]: 1
 
